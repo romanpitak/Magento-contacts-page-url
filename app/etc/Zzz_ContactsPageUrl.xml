@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * This file is part of the Magento Zzz_ContactsPageUrl package.
+ *
+ * (c) Roman Piták <roman@pitak.net>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ */
+-->
+<config>
+    <modules>
+        <Zzz_ContactsPageUrl>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Zzz_ContactsPageUrl>
+    </modules>
+</config>

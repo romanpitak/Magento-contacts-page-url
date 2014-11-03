@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * This file is part of the Magento Zzz_ContactsPageUrl package.
+ *
+ * (c) Roman Piták <roman@pitak.net>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ */
+-->
+<config>
+    <frontend>
+        <routers>
+            <contacts>
+                <args>
+                    <!-- Set the value of frontName to your desired contacts page url -->
+                    <frontName>contact-us.html</frontName>
+                </args>
+            </contacts>
+        </routers>
+    </frontend>
+</config>
